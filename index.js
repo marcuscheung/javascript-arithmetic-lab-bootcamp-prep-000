@@ -42,6 +42,6 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  parseFloat('sldkjflksjf')
+  parseFloat('n')
   return NaN
 }
